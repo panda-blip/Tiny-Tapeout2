@@ -12,9 +12,9 @@ You can also include images in this folder and reference them in the markdown. E
 8 T flip-flops are chained together to output an 8 bit integer, which will tick up by 1 when input 1 is pressed.
 
 ## How to test
-
-Explain how to use your project
+When the push button is pressed, the LED's should update and count up by 1 in binary.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+A single push button connected to Input 1.
+8 LED's arranged in a line connected to each output.
