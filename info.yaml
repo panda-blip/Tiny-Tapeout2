@@ -17,7 +17,7 @@ project:
 pinout:
   # Inputs
   ui[0]: "Count Up"
-  ui[1]: "Count Down"
+  ui[1]: ""
   ui[2]: ""
   ui[3]: ""
   ui[4]: ""
